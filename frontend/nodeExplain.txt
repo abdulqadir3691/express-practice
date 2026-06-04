@@ -1,0 +1,36 @@
+What is NodejS?
+JavaScript runtime environment that allows developers to run JavaScript code outside of a web browser
+created by ryan dahl
+node uses v8 google chrome to run JS on server on local machine.
+
+why we need node js?
+
+MERN stack
+fast development 
+scalability (easily handle large number of user)
+JS used in both frontend  and backend.
+
+where is nodejs used?
+web application
+application dev
+real time app
+
+
+advantages?
+
+async operation 
+cross platform used on windows mac Linux
+large community
+fast execution
+
+uses?
+api dev
+micro-services architecture
+
+Architecture?
+
+REPL
+Read
+Evaluate
+Print
+Loop
